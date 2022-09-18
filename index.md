@@ -37,6 +37,6 @@ If you are interested in our seminar, please contact the organizers.
 
 |                **DATE**                |                     **Speaker**                      |               **Title**               |                            Files                             |
 | :------------------------------------: | :--------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------: |
-| **2022 Sep 18 (Sun.)  9.30am-11:30am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Phase transitions in mean field limit | [PDF](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/9.18/Delgadino.pdf) |
+| **2022 Sep 25 (Sun.)  9.30am-11:30am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Phase transitions in mean field limit | [PDF](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/9.18/Delgadino.pdf) |
 |                                        |                                                      |                                       |                                                              |
 

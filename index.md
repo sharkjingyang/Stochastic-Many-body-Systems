@@ -16,6 +16,8 @@ All online meetings, if not specially marked, will be held in Zoom meeting room.
 
 If you are interested in our seminar, please contact the organizers.
 
+## 2022 Spring
+
 |                 **DATE**                 |                         **Speaker**                          |                          **Title**                           |
 | :--------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  **2021 Dec 7 (Tue.)  9.30am-11:00am**   |     [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/)     | Introduction to current trends about uniform-in-time propagation of chaos |
@@ -35,8 +37,9 @@ If you are interested in our seminar, please contact the organizers.
 | **2022 June 12 (Sun.)  10:00am-12:00pm** | [Haitao Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIgtw) |             Mean field limit for quantum systems             |
 | **2022 June 19 (Sun.)  10:00am-12:00pm** | [Haitao Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIgtw) |      Mean field limit for quantum systems ( Lecture 2)       |
 
+## 2022 Autumn
+
 |                **DATE**                |                     **Speaker**                      |               **Title**               |                            Files                             |
 | :------------------------------------: | :--------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------: |
 | **2022 Sep 25 (Sun.)  9.30am-11:30am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Phase transitions in mean field limit | [PDF](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/9.18/Delgadino.pdf) |
 |                                        |                                                      |                                       |                                                              |
-

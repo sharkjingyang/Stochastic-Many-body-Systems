@@ -46,3 +46,6 @@ If you are interested in our seminar, please contact the organizers.
 | **2022 Oct 16 (Sun.)  9.30am-11:30am** |      [Lin Liu](https://linliu-stats.github.io/)      |      Empirical process Lecture2       | [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/10.16/Note%20Oct%2016%2C%202022.pdf) |
 | **2022 Oct 23 (Sun.)  9.30am-11:30am** |      [Lin Liu](https://linliu-stats.github.io/)      |      Empirical process Lecture3       |                                                              |
 | **2022 Nov 6 (Sun.)  9.30am-11:30am**  |     [Shuyang Ling](https://cims.nyu.edu/~sling/)     |      Empirical process Lecture4       |                                                              |
+| **2022 Nov 13 (Sun.)  9.30am-11:30am** |   [Lei Li](https://ins.sjtu.edu.cn/people/leili/)    |                                       |                                                              |
+|                                        |                                                      |                                       |                                                              |
+|                                        |                                                      |                                       |                                                              |

@@ -47,5 +47,5 @@ If you are interested in our seminar, please contact the organizers.
 | **2022 Oct 23 (Sun.)  9.30am-11:30am** |      [Lin Liu](https://linliu-stats.github.io/)      |           Empirical process Lecture3           |                                                              |
 | **2022 Nov 6 (Sun.)  9.30am-11:30am**  |     [Shuyang Ling](https://cims.nyu.edu/~sling/)     |           Empirical process Lecture4           |                                                              |
 | **2022 Nov 13 (Sun.)  9.30am-11:30am** |   [Lei Li](https://ins.sjtu.edu.cn/people/leili/)    |     Mean field analysis of neural networks     |                                                              |
-| **2022 Nov 27 (Sun.)  9.30am-11:30am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Phase transitions in mean field limit Lecture2 |                                                              |
+| **2022 Nov 27 (Sun.)  9.30am-11:30am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Phase transitions in mean field limit Lecture2 | [PDF](https://link.springer.com/article/10.1007/BF01010922)  |
 |                                        |                                                      |                                                |                                                              |

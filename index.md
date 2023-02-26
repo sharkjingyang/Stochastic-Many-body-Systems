@@ -39,6 +39,7 @@ If you are interested in our seminar, please contact the organizers.
 
 ## 2022 Autumn
 
+<<<<<<< HEAD
 |                **DATE**                |                     **Speaker**                      |                   **Title**                    |                            Files                             |
 | :------------------------------------: | :--------------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------------: |
 | **2022 Sep 25 (Sun.)  9.30am-11:30am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) |     Phase transitions in mean field limit      | [PDF](https://arxiv.org/pdf/2112.06304.pdf) [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/9.18/Note-Sep-25-2023.pdf) |
@@ -58,3 +59,17 @@ If you are interested in our seminar, please contact the organizers.
 |                                        |                                                 |                                                              |       |
 |                                        |                                                 |                                                              |       |
 
+=======
+|                **DATE**                |                     **Speaker**                      |                    **Title**                    |                            Files                             |
+| :------------------------------------: | :--------------------------------------------------: | :---------------------------------------------: | :----------------------------------------------------------: |
+| **2022 Sep 25 (Sun.)  9.30am-11:30am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) |      Phase transitions in mean field limit      | [PDF](https://arxiv.org/pdf/2112.06304.pdf) [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/9.18/Note-Sep-25-2023.pdf) |
+| **2022 Oct 9 (Sun.)  9.30am-11:30am**  |     [Shuyang Ling](https://cims.nyu.edu/~sling/)     |                Empirical process                | [PDF](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/10.9/Empirical%20process.pdf) [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/10.9/2022_10_09_Empirical_Processes_notes.pdf) |
+| **2022 Oct 16 (Sun.)  9.30am-11:30am** |      [Lin Liu](https://linliu-stats.github.io/)      |           Empirical process Lecture2            | [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/10.16/Note%20Oct%2016%2C%202022.pdf) |
+| **2022 Oct 23 (Sun.)  9.30am-11:30am** |      [Lin Liu](https://linliu-stats.github.io/)      |           Empirical process Lecture3            |                                                              |
+| **2022 Nov 6 (Sun.)  9.30am-11:30am**  |     [Shuyang Ling](https://cims.nyu.edu/~sling/)     |           Empirical process Lecture4            |                                                              |
+| **2022 Nov 13 (Sun.)  9.30am-11:30am** |   [Lei Li](https://ins.sjtu.edu.cn/people/leili/)    |     Mean field analysis of neural networks      |                                                              |
+| **2022 Nov 27 (Sun.)  9.30am-11:30am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Phase transitions in mean field limit Lecture2  | [PDF](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/11.27/Dawson_Phase%20transition.pdf) [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/11.27/Note_Nov%2027_2022.pdf) |
+| **2022 Dec 4 (Sun.)  9.30am-11:30am**  | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Phase transitions in mean field limit Lecture3  |                                                              |
+| **2023 Jan 8 (Sun.)  9.30am-11:30am**  |   [Lei Li](https://ins.sjtu.edu.cn/people/leili/)    | Mean field analysis of neural networks Lecture2 |                                                              |
+| **2023 Jan 15 (Sun.)  9.30am-11:30am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Phase transitions in mean field limit Lecture4  |                                                              |
+>>>>>>> 9ba6ae9e1cdef59f74283d11907f5ae04a0a1f74

@@ -52,9 +52,9 @@ If you are interested in our seminar, please contact the organizers.
 
 ## 2023 Spring
 
-|                  DATE                  |                     Speaker                     | Title | Files |
-| :------------------------------------: | :---------------------------------------------: | :---: | :---: |
-| **2023 Feb 26 (Sun.)  9.30am-11:30am** | [Lei Li](https://ins.sjtu.edu.cn/people/leili/) |       |       |
-|                                        |                                                 |       |       |
-|                                        |                                                 |       |       |
+|                  DATE                  |                     Speaker                     |                            Title                             | Files |
+| :------------------------------------: | :---------------------------------------------: | :----------------------------------------------------------: | :---: |
+| **2023 Feb 26 (Sun.)  9.30am-11:30am** | [Lei Li](https://ins.sjtu.edu.cn/people/leili/) | Mean Field Langevin Dynamics: Exponential Convergence and Annealing |       |
+|                                        |                                                 |                                                              |       |
+|                                        |                                                 |                                                              |       |
 

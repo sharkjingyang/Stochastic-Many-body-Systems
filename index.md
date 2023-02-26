@@ -49,3 +49,12 @@ If you are interested in our seminar, please contact the organizers.
 | **2022 Nov 13 (Sun.)  9.30am-11:30am** |   [Lei Li](https://ins.sjtu.edu.cn/people/leili/)    |     Mean field analysis of neural networks     |                                                              |
 | **2022 Nov 27 (Sun.)  9.30am-11:30am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Phase transitions in mean field limit Lecture2 | [PDF](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/11.27/Dawson_Phase%20transition.pdf) [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/11.27/Note_Nov%2027_2022.pdf) |
 | **2022 Dec 4 (Sun.)  9.30am-11:30am**  | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Phase transitions in mean field limit Lecture3 |                                                              |
+
+## 2023 Spring
+
+|                  DATE                  |                     Speaker                     | Title | Files |
+| :------------------------------------: | :---------------------------------------------: | :---: | :---: |
+| **2023 Feb 26 (Sun.)  9.30am-11:30am** | [Lei Li](https://ins.sjtu.edu.cn/people/leili/) |       |       |
+|                                        |                                                 |       |       |
+|                                        |                                                 |       |       |
+

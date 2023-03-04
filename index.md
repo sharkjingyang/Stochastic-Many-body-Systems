@@ -54,8 +54,8 @@ If you are interested in our seminar, please contact the organizers.
 
 ## 2023 Spring
 
-|                  DATE                  |                     Speaker                     |                            Title                             | Files |
-| :------------------------------------: | :---------------------------------------------: | :----------------------------------------------------------: | :---: |
-| **2023 Feb 26 (Sun.)  9.30am-11:30am** | [Lei Li](https://ins.sjtu.edu.cn/people/leili/) | Mean Field Langevin Dynamics: Exponential Convergence and Annealing |       |
-|                                        |                                                 |                                                              |       |
-|                                        |                                                 |                                                              |       |
+|                  DATE                  |                     Speaker                     |                            Title                             |                            Files                             |
+| :------------------------------------: | :---------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **2023 Feb 26 (Sun.)  9.30am-11:30am** | [Lei Li](https://ins.sjtu.edu.cn/people/leili/) | Mean Field Langevin Dynamics: Exponential Convergence and Annealing |                                                              |
+| **2023 Mar 5 (Sun.)  9.30am-11:30am**  | [Lei Li](https://ins.sjtu.edu.cn/people/leili/) | Mean-field Langevin Dynamics and Energy Landscape of Neural Networks | [Paper](https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-57/issue-4/Mean-field-Langevin-dynamics-and-energy-landscape-of-neural-networks/10.1214/20-AIHP1140.short) |
+|                                        |                                                 |                                                              |                                                              |

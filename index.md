@@ -69,3 +69,13 @@ If you are interested in our seminar, please contact the organizers.
 | **2023 June 8 (Thur.)  9.00pm-11:00pm**  |       [Lei Li](https://ins.sjtu.edu.cn/people/leili/)        |                   Bakry-Emery meet Villani                   |           [Paper](https://arxiv.org/abs/1308.4938)           |
 | **2023 June 15 (Thur.)  9.00pm-11:00pm** | [Haitao Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIgtw) |              On the Quantum Boltzmann Equation               | [Paper](https://arxiv.org/abs/math-ph/0302034) [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/2023.6.16/Formal%20derivation%20of%20quantum%20Boltzmann%20equation%20Jun%2015%2C%202023%20at%2014_16_57.pdf) |
 | **2023 June 29 (Thur.)  9.00pm-11:00pm** |          [Lin Liu](https://linliu-stats.github.io/)          | Weak Signal Asymptotics for Sequentially Randomized Experiments |          [Paper](https://arxiv.org/abs/2101.09855)           |
+
+## 2023 Fall
+
+|                  DATE                  |                   Speaker                    | Title | Files |
+| :------------------------------------: | :------------------------------------------: | :---: | :---: |
+| **2023 Oct 24 (Tue.)  9.30am-11:30am** | [Shuyang Ling](https://cims.nyu.edu/~sling/) |       |       |
+|                                        |                                              |       |       |
+|                                        |                                              |       |       |
+|                                        |                                              |       |       |
+

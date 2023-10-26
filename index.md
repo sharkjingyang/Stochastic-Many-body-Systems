@@ -72,10 +72,10 @@ If you are interested in our seminar, please contact the organizers.
 
 ## 2023 Fall
 
-|                  DATE                  |                   Speaker                    | Title | Files |
-| :------------------------------------: | :------------------------------------------: | :---: | :---: |
-| **2023 Oct 24 (Tue.)  9.30am-11:30am** | [Shuyang Ling](https://cims.nyu.edu/~sling/) |       |       |
-|                                        |                                              |       |       |
-|                                        |                                              |       |       |
-|                                        |                                              |       |       |
+|                  DATE                  |                   Speaker                    |                            Title                            |                            Files                             |
+| :------------------------------------: | :------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------------: |
+| **2023 Oct 24 (Tue.)  9.30am-11:30am** | [Shuyang Ling](https://cims.nyu.edu/~sling/) | Overview  of Sherrington Kirkpatrick model & Parisi formula | [Paper 1 ](https://arxiv.org/abs/1412.0170) [Paper 2](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/2023.6.16/Formal%20derivation%20of%20quantum%20Boltzmann%20equation%20Jun%2015%2C%202023%20at%2014_16_57.pdf) |
+|                                        |                                              |                                                             |                                                              |
+|                                        |                                              |                                                             |                                                              |
+|                                        |                                              |                                                             |                                                              |
 

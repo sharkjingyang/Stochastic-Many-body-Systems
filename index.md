@@ -72,10 +72,10 @@ If you are interested in our seminar, please contact the organizers.
 
 ## 2023 Fall
 
-|                  DATE                  |                       Speaker                        |                            Title                             |                            Files                             |
-| :------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **2023 Oct 24 (Tue.)  9.30am-11:30am** |     [Shuyang Ling](https://cims.nyu.edu/~sling/)     | Overview  of Sherrington Kirkpatrick model & Parisi formula  | [Paper 1](https://arxiv.org/abs/1412.0170) [Paper 2](https://annals.math.princeton.edu/wp-content/uploads/annals-v163-n1-p04.pdf) [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/2023.10.24/SK-model-Reading%20Group%20notes.pdf) |
-| **2023 Oct 31 (Tue.)  9.30am-11:30am** |   [Lei Li](https://ins.sjtu.edu.cn/people/leili/)    | Homogenization and hypocoercivity for Fokker-Planck equations driven by weakly compressible shear flows |          [Paper](https://arxiv.org/abs/2008.11710)           |
-|  **2023 Nov7 (Tue.)  9.30am-11:30am**  | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) |                                                              |                                                              |
-|                                        |                                                      |                                                              |                                                              |
+|                  DATE                  |                     Speaker                     |                            Title                             |                            Files                             |
+| :------------------------------------: | :---------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **2023 Oct 24 (Tue.)  9.30am-11:30am** |  [Shuyang Ling](https://cims.nyu.edu/~sling/)   | Overview  of Sherrington Kirkpatrick model & Parisi formula  | [Paper 1](https://arxiv.org/abs/1412.0170) [Paper 2](https://annals.math.princeton.edu/wp-content/uploads/annals-v163-n1-p04.pdf) [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/2023.10.24/SK-model-Reading%20Group%20notes.pdf) |
+| **2023 Oct 31 (Tue.)  9.30am-11:30am** | [Lei Li](https://ins.sjtu.edu.cn/people/leili/) | Homogenization and hypocoercivity for Fokker-Planck equations driven by weakly compressible shear flows |          [Paper](https://arxiv.org/abs/2008.11710)           |
+|  **2023 Nov7 (Tue.)  9.30am-11:30am**  |                    Yun Gong                     | Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space |        [Paper](https://arxiv.org/pdf/2310.05156.pdf)         |
+| **2023 Nov14 (Tue.)  9.30am-11:30am**  |  [Shuyang Ling](https://cims.nyu.edu/~sling/)   |                                                              |                                                              |
 

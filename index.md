@@ -78,4 +78,7 @@ If you are interested in our seminar, please contact the organizers.
 | **2023 Oct 31 (Tue.)  9.30am-11:30am** | [Lei Li](https://ins.sjtu.edu.cn/people/leili/) | Homogenization and hypocoercivity for Fokker-Planck equations driven by weakly compressible shear flows |          [Paper](https://arxiv.org/abs/2008.11710)           |
 | **2023 Nov 7 (Tue.)  9.30am-11:30am**  |                    Yun Gong                     | Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space |        [Paper](https://arxiv.org/pdf/2310.05156.pdf)         |
 | **2023 Nov 14 (Tue.)  9.30am-11:30am** |  [Shuyang Ling](https://cims.nyu.edu/~sling/)   | Overview  of Sherrington Kirkpatrick model & Parisi formula Lecture 2 |                                                              |
+| **2023 Nov 21 (Tue.)  9.30am-11:30am** | [Lei Li](https://ins.sjtu.edu.cn/people/leili/) | Homogenization and hypocoercivity for Fokker-Planck equations driven by weakly compressible shear flows Lecture 2 |                                                              |
+|                                        |                                                 |                                                              |                                                              |
+|                                        |                                                 |                                                              |                                                              |
 

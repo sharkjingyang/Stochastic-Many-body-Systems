@@ -80,5 +80,5 @@ If you are interested in our seminar, please contact the organizers.
 | **2023 Nov 14 (Tue.)  9.00am-11:00am** |     [Shuyang Ling](https://cims.nyu.edu/~sling/)     | Overview  of Sherrington Kirkpatrick model & Parisi formula Lecture 2 |                                                              |
 | **2023 Nov 21 (Tue.)  9.00am-11:00am** |   [Lei Li](https://ins.sjtu.edu.cn/people/leili/)    | Homogenization and hypocoercivity for Fokker-Planck equations driven by weakly compressible shear flows Lecture 2 |                                                              |
 | **2023 Nov 28 (Tue.)  9.00am-11:00am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | Modulated logarithmic Sobolev inequalities and generation of chaos | [Paper](https://arxiv.org/abs/2307.07587) [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/2023.11.28/Note%20Nov%2028%2C%202023.pdf) |
-|                                        |                                                      |                                                              |                                                              |
+| **2023 Dec 12 (Tue.)  9.00am-11:00am** |     [Shuyang Ling](https://cims.nyu.edu/~sling/)     | Overview  of Sherrington Kirkpatrick model & Parisi formula Lecture 3 |                                                              |
 

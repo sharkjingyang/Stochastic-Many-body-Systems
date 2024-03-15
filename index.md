@@ -84,3 +84,12 @@ If you are interested in our seminar, please contact the organizers.
 | **2023 Dec 26 (Tue.)  9.00am-11:00am** |   [Lei Li](https://ins.sjtu.edu.cn/people/leili/)    | Taming correlations through entropy-efficientmeasure decompositions with applications tomean-field approximation | [Paper 1](https://arxiv.org/abs/1811.11530) [Paper 2](https://arxiv.org/abs/1303.3315) |
 | **2024 Jan 2 (Tue.)  9.00am-11:00am**  |                     Xie Pengzhi                      | Higher-order propagation of chaos in L^2 for interacting diffusions | [Paper 1](https://arxiv.org/abs/2310.09654) [Notes](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/2024.1.2/higher_order_poc.pdf) |
 
+## 2024 Spring
+
+|                  DATE                  |                       Speaker                        |                            Title                             |                   Files                   |
+| :------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------: |
+| **2024 Mar 26 (Tue.)  9.00am-11:00am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | A duality method for mean-field limits with singular interations | [Paper](https://arxiv.org/abs/2402.04695) |
+|                                        |                                                      |                                                              |                                           |
+|                                        |                                                      |                                                              |                                           |
+|                                        |                                                      |                                                              |                                           |
+

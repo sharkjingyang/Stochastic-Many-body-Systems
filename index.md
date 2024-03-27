@@ -86,10 +86,10 @@ If you are interested in our seminar, please contact the organizers.
 
 ## 2024 Spring
 
-|                  DATE                  |                       Speaker                        |                            Title                             |                   Files                   |
-| :------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------: |
-| **2024 Mar 26 (Tue.)  9.00am-11:00am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | A duality method for mean-field limits with singular interations | [Paper](https://arxiv.org/abs/2402.04695) |
-|                                        |                                                      |                                                              |                                           |
-|                                        |                                                      |                                                              |                                           |
-|                                        |                                                      |                                                              |                                           |
+|                  DATE                  |                       Speaker                        |                            Title                             |                            Files                             |
+| :------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **2024 Mar 26 (Tue.)  9.00am-11:00am** | [Zhenfu Wang](https://bicmr.pku.edu.cn/~zhenfuwang/) | A duality method for mean-field limits with singular interations | [Paper](https://arxiv.org/abs/2402.04695) [Note](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/20204.3.26/Note%20Mar%2026%2C%202024.pdf) |
+|                                        |                                                      |                                                              |                                                              |
+|                                        |                                                      |                                                              |                                                              |
+|                                        |                                                      |                                                              |                                                              |
 

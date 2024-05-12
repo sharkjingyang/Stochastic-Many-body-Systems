@@ -93,6 +93,6 @@ If you are interested in our seminar, please contact the organizers.
 | **2024 Apr 9 (Tue.)  9.00am-11:00am**  |     [Shuyang Ling](https://cims.nyu.edu/~sling/)     |               Introduction to diffusion models               |                                                              |
 | **2024 Apr 16 (Tue.)  9.00am-11:00am** |   [Lei Li](https://ins.sjtu.edu.cn/people/leili/)    |                   Stochastic Localization                    | [Paper 1](https://arxiv.org/abs/1303.3315) [Paper 2](https://arxiv.org/abs/2203.05093) |
 | **2024 Apr 23 (Tue.)  9.00am-11:00am** |                       Yun Gong                       |            A duality method for mean field limit             | [Note](https://github.com/sharkjingyang/Stochastic-Many-body-Systems/blob/main/2024.4.23/Dual%20approach.pdf) |
-|                                        |                                                      |                                                              |                                                              |
+|  **2024 May7 (Tue.)  9.00am-11:00am**  |     [Shuyang Ling](https://cims.nyu.edu/~sling/)     |          Introduction to diffusion models Lecture 2          |                                                              |
 |                                        |                                                      |                                                              |                                                              |
 
